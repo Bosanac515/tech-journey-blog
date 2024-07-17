@@ -14,6 +14,18 @@
     animation: hop 300ms infinite;
 }
 
+@keyframes color-change {
+    0% { background-color: #ffecd2; }
+    25% { background-color: #fcb69f; }
+    50% { background-color: #ff9190; }
+    75% { background-color: #ffcac2; }
+    100% { background-color: #ffecd2; }
+}
+
+body {
+    animation: color-change 10s infinite;
+}
+
 /*:root {*/
 /*  --foreground-rgb: 0, 0, 0;*/
 /*  --background-start-rgb: 214, 219, 220;*/
