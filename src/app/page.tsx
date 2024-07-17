@@ -24,8 +24,8 @@ export default function Home() {
           </p>
           <div className={'my-4'}>
             <i>
-              Check out the repo{' '}
-                <Link href={'https://github.com/ludu12/tech-journey-bloghttps://lukes-secrets.vercel.app/movie/4859fd48-ef7c-4b5e-8a8b-26582c80f260'}>
+              Check out the repo{''}
+                <Link href={'https://lukes-secrets-okvyv49m5-bosanac515s-projects.vercel.app/'}>
                   <button className={'btn btn-primary'}>
                       <span className={'text-primary-content'}>
                         here
