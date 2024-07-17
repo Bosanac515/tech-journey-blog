@@ -15,11 +15,11 @@ const description = 'This my portfolio';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
   {title: 'Bosatek', href: 'www.bosatek.com'},
-  {title: 'Freedom Construction', href: 'www.freedomconstruction.com'},
+  {title: 'Freedom Construction', href: 'www.freedomconstruction.net'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
-  snapchat: '#twitter',
+  twitter: '#https://www.change.org/p/change-x-back-to-twitter-1ad8d0a6-cc63-4938-b57b-8506fbd1c635',
   github: 'https://github.com/Bosanac515',
   instagram: 'https://www.instagram.com/bosanac_010/',
   email: 'mailto:hello@bosatek.com'
