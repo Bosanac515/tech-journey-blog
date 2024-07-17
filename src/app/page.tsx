@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = '/images/snorlax.jpg';
+const imageUrl = '/images/seth-snorlax.webp';
 
 export default function Home() {
   const allPostsData: AllPostsData = getSortedPostsData()
@@ -20,12 +20,12 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Hey I&apos;m Luke. This is my site.
+            Hey I&apos;m Aden. This is my site.
           </p>
           <div className={'my-4'}>
             <i>
               Check out the repo{' '}
-                <Link href={'https://github.com/ludu12/tech-journey-blog'}>
+                <Link href={'https://github.com/ludu12/tech-journey-bloghttps://lukes-secrets.vercel.app/movie/4859fd48-ef7c-4b5e-8a8b-26582c80f260'}>
                   <button className={'btn btn-primary'}>
                       <span className={'text-primary-content'}>
                         here
